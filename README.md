@@ -20,7 +20,7 @@ mnist_get_data.sh
 python run_tests.py
 ```
 
-To run the models, open the GUI with the following command
+To run the models, open the GUI with the following command while being in the project folder
 
 streamlit run app.py -- 4
 
