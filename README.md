@@ -2,8 +2,6 @@
 
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
-* Docs: https://minitorch.github.io/
-
 To run this, you will need to install and download the MNist library.
 
 (On Mac, this may require installing the `wget` command)
